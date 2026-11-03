@@ -1,0 +1,17 @@
+# Fonts are fetched at setup time by renderer/fetch_fonts.sh — never committed.
+**/renderer/fonts/
+
+# Renderer deps
+**/node_modules
+package-lock.json
+
+# User credentials must never enter this repo (they live in ~/.ergo-aso/)
+*.p8
+config.json
+!plugins/ergo-aso/skills/ergo-aso/renderer/config.json
+
+# OS / editor noise
+.DS_Store
+*.swp
+.idea/
+.vscode/

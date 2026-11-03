@@ -1,0 +1,20 @@
+{
+  "name": "ergo-aso-marketplace",
+  "interface": {
+    "displayName": "Ergo ASO"
+  },
+  "plugins": [
+    {
+      "name": "ergo-aso",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ergo-aso"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

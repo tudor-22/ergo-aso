@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ergo ASO"
+  short_description: "Full-funnel App Store Optimization for your iOS app"
+  default_prompt: "Use $ergo-aso to do the ASO for my iOS app: keyword research, localized App Store metadata and screenshots, worldwide pricing, in-app localization, and a verified submission checklist."

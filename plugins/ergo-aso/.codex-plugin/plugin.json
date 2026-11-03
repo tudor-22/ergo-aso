@@ -1,0 +1,40 @@
+{
+  "name": "ergo-aso",
+  "version": "0.1.0",
+  "description": "Full-funnel App Store Optimization for Codex — keyword research, 50-locale metadata, localized screenshots, worldwide pricing, in-app localization, and a verified submission checklist. Bring your own App Store Connect key.",
+  "author": {
+    "name": "Tudor Iustin",
+    "url": "https://tudoriustin.com"
+  },
+  "keywords": [
+    "aso",
+    "app-store",
+    "ios",
+    "localization",
+    "keywords",
+    "screenshots",
+    "pricing",
+    "app-store-connect"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Ergo ASO",
+    "shortDescription": "Full-funnel App Store Optimization",
+    "longDescription": "Take an iOS app from ready-to-submit to a fully optimized, fully localized App Store presence: keyword research, metadata in up to 50 locales, localized screenshots, worldwide pricing, in-app string localization, and a verified submission checklist.",
+    "developerName": "Tudor Iustin",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Do the ASO for my iOS app",
+      "Find keywords for my app and pick a name and subtitle",
+      "Localize my App Store page and screenshots"
+    ],
+    "brandColor": "#0169CC",
+    "screenshots": [],
+    "websiteURL": "https://tudoriustin.com"
+  },
+  "homepage": "https://tudoriustin.com"
+}
