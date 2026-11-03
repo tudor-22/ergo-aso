@@ -153,7 +153,6 @@ Built and maintained by [Tudor Iustin](https://tudoriustin.com).
 
 ## License
 
-Copyright © 2026 Tudor Iustin. All rights reserved.
-
+Copyright © 2026 Tudor Iustin. Licensed under Apache2.0 (SEE LICENSE)
 The renderer downloads Google Fonts (DM Sans, Noto Sans family) at setup time;
 those are OFL-licensed and not redistributed here.
